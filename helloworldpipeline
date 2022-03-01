@@ -1,4 +1,7 @@
 pipeline {
+    tools{
+                maven 'Maveninstall'}
+    
     agent any
 
     stages {
