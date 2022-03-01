@@ -1,0 +1,56 @@
+[
+  {
+    "id": 0,
+    "category": {
+      "id": 0,
+      "name": "string"
+    },
+    "name": "dog",
+    "photoUrls": [
+      "string"
+    ],
+    "tags": [
+      {
+        "id": 0,
+        "name": "string"
+      }
+    ],
+    "status": "available"
+  },
+  {
+    "id": 1,
+    "category": {
+      "id": 1,
+      "name": "string"
+    },
+    "name": "cat",
+    "photoUrls": [
+      "string"
+    ],
+    "tags": [
+      {
+        "id": 1,
+        "name": "string"
+      }
+    ],
+    "status": "available"
+  },
+  {
+    "id": 2,
+    "category": {
+      "id": 2,
+      "name": "string"
+    },
+    "name": "fish",
+    "photoUrls": [
+      "string"
+    ],
+    "tags": [
+      {
+        "id": 2,
+        "name": "string"
+      }
+    ],
+    "status": "not available"
+  }
+]

@@ -1,0 +1,14 @@
+{
+    "priority":10,
+    "request": {
+      "method": "ANY",
+      "urlPattern": "/pets/.*"
+    },
+    "response": {
+      "status": 404,
+      "jsonBody": {"status":"Error","message":"Pet not known in the Petstore"},
+      "headers": {
+        "Content-Type": "application/json"
+      }
+    }
+  }
